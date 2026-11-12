@@ -11,5 +11,5 @@ jobs:
     with:
       base_branches: '["develop"]'
       title_prefix: 'project-2'
-      default_mentions: '["Thamarai-selvan-G-Noukha"]'
+      default_mentions: '["Thamarai-selvan-G-Noukha","sujanae"]'
     secrets: inherit
